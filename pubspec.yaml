@@ -1,0 +1,64 @@
+name: admin_app
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  connectivity_plus: ^2.3.6
+  flutter_bloc: ^8.1.3
+  shared_preferences: ^2.2.2
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  cloud_firestore: ^4.14.0
+  firebase_auth: ^4.17.4
+  dotted_border: ^2.1.0
+  intl: ^0.19.0
+  firebase_core: ^2.25.4
+  fluttertoast: ^8.2.4
+ 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/images/gitHub.png
+    - assets/fonts/
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/InterBold.ttf
+          weight: 700
+        - asset: assets/fonts/InterRegular.ttf
+          weight: 400
+        - asset: assets/fonts/InterMedium.ttf
+          weight: 500
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/RobotoRomanRegular.ttf
+          weight: 400
+        - asset: assets/fonts/RobotoMedium.ttf
+          weight: 500
+        - asset: assets/fonts/RobotoBold.ttf
+          weight: 700
+    - family: Barlow
+      fonts:
+        - asset: assets/fonts/BarlowBold.ttf
+          weight: 700
+        - asset: assets/fonts/BarlowRegular.ttf
+          weight: 400
+        - asset: assets/fonts/BarlowMedium.ttf
+          weight: 500
+        - asset: assets/fonts/BarlowSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/BarlowExtraLight.ttf
+          weight: 300
+    - family: Be Vietnam Pro
+      fonts:
+        - asset: assets/fonts/BeVietnamProMedium.ttf
+          weight: 500

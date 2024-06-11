@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90008093445",
+    "project_id": "stocksolon-2",
+    "storage_bucket": "stocksolon-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90008093445:android:d4347beb84a60049b76d6c",
+        "android_client_info": {
+          "package_name": "com.adminapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUn32B1UsPBMUr3vNwxKxN-Fih1_akXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
