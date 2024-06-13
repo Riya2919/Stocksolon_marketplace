@@ -1,5 +1,5 @@
-
-# admin_app
+ 
+# admin_app 
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
